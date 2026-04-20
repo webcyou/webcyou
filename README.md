@@ -1,5 +1,22 @@
 ## Hi there 👋
 
+こちらは、ブログ「Web帳」専用のアカウントになります。
+
+👉 メインはこちらで活動しています  
+[https://github.com/your-main-account](https://github.com/panicdragon)
+
+
+## Author
+
+**Daisuke Takayama**
+
+- [@webcyou](https://twitter.com/webcyou)
+- [@panicdragon](https://twitter.com/panicdragon)
+- <https://github.com/webcyou>
+- <https://github.com/webcyou-org>
+- <https://github.com/panicdragon>
+- <https://www.webcyou.com/>
+
 <!--
 **webcyou/webcyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -3,8 +3,7 @@
 こちらは、ブログ「Web帳」専用のアカウントになります。
 
 👉 メインはこちらで活動しています  
-[https://github.com/your-main-account](https://github.com/panicdragon)
-
+[https://github.com/panicdragon](https://github.com/panicdragon)
 
 ## Author
 
